@@ -77,3 +77,5 @@ uv add tensorflow
 uv add torch
 uv add torchvision
 uv add matplotlib
+uv add datasets
+uv add tiktoken
